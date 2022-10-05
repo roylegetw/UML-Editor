@@ -1,2 +1,2 @@
 # UML-Editor
-Just for pratice
+Just for practice
